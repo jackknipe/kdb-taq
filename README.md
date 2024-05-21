@@ -1,3 +1,6 @@
+# Adding comments to README.md
+This is a new comment that is being added.
+
 # kdb+taq
 
 ## Changes to kdb+taq
