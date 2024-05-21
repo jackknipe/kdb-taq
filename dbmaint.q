@@ -1,3 +1,4 @@
+/Adding a comment to the dbmaint.q\
 / kdb+ partitioned database maintenance
 \d .os
 WIN:.z.o in`w32`w64
